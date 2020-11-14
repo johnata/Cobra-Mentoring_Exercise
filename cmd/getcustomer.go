@@ -1,4 +1,4 @@
-obra - added new commandpackage cmd
+package cmd
 
 import (
 	"fmt"
